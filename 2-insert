@@ -1,2 +1,0 @@
-// A script that insert a document in collection school
-db.school.insertOne({ name: "Holberton school" })
